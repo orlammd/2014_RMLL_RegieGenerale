@@ -965,10 +965,212 @@
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="11">1,255,2,255,3,255</FixtureVal>
   </Function>
+
   <Function Path="Par36" Type="Scene" Name="Par36 #1 Red" ID="168">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="12">1,255</FixtureVal>
   </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #1 Green" ID="169">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="12">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #1 Blue" ID="170">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="12">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #1 White" ID="171">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="12">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+
+  <Function Path="Par36" Type="Scene" Name="Par36 #2 Red" ID="172">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="13">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #2 Green" ID="173">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="13">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #2 Blue" ID="174">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="13">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #2 White" ID="175">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="13">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #3 Red" ID="176">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="14">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #3 Green" ID="177">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="14">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #3 Blue" ID="178">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="14">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #3 White" ID="179">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="14">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #4 Red" ID="180">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="15">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #4 Green" ID="181">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="15">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #4 Blue" ID="182">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="15">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #4 White" ID="183">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="15">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #5 Red" ID="184">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="16">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #5 Green" ID="185">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="16">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #5 Blue" ID="186">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="16">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #5 White" ID="187">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="16">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #6 Red" ID="188">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="17">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #6 Green" ID="189">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="17">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #6 Blue" ID="190">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="17">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #6 White" ID="191">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="17">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #7 Red" ID="192">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="18">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #7 Green" ID="193">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="18">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #7 Blue" ID="194">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="18">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #7 White" ID="195">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="18">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #8 Red" ID="196">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="19">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #8 Green" ID="197">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="19">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #8 Blue" ID="198">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="19">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #8 White" ID="199">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="19">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #9 Red" ID="200">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="20">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #9 Green" ID="201">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="20">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #9 Blue" ID="202">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="20">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #9 White" ID="203">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="20">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #10 Red" ID="204">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="21">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #10 Green" ID="205">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="21">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #10 Blue" ID="206">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="21">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #10 White" ID="207">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="21">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #11 Red" ID="208">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="22">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #11 Green" ID="209">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="22">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #11 Blue" ID="210">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="22">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #11 White" ID="211">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="22">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par36" Type="Scene" Name="Par36 #12 Red" ID="212">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="23">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par36" Type="Scene" Name="Par36 #12 Green" ID="213">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="23">2,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #12 Blue" ID="214">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="23">3,255</FixtureVal>
+  </Function>
+   <Function Path="Par36" Type="Scene" Name="Par36 #12 White" ID="215">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="23">1,255, 2, 255, 3, 255</FixtureVal>
+  </Function>
+ 
  </Engine>
  <VirtualConsole>
   <Frame Caption="">
