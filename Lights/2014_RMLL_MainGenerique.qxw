@@ -879,8 +879,97 @@
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #1 Blue" ID="146">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
-   <FixtureVal ID="6">3,0</FixtureVal>
+   <FixtureVal ID="6">3,255</FixtureVal>
   </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #1 White" ID="147">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="6">1, 255, 2, 255, 3,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #2 Red" ID="148">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="7">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #2 Green" ID="149">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="7">2,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #2 Blue" ID="150">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="7">3,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #2 White" ID="151">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="7">1, 255, 2, 255, 3,255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par64" Type="Scene" Name="PAR64 #3 Red" ID="152">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="8">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #3 Green" ID="153">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="8">2,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #3 Blue" ID="154">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="8">3,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #3 White" ID="155">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="8">1, 255, 2, 255, 3,255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par64" Type="Scene" Name="PAR64 #4 Red" ID="156">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="9">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #4 Green" ID="157">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="9">2,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #4 Blue" ID="158">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="9">3,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #4 White" ID="159">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="9">1, 255, 2, 255, 3,255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par64" Type="Scene" Name="PAR64 #5 Red" ID="160">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="10">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #5 Green" ID="161">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="10">2,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #5 Blue" ID="162">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="10">3,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #5 White" ID="163">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="10">1, 255, 2, 255, 3,255</FixtureVal>
+  </Function>
+ 
+  <Function Path="Par64" Type="Scene" Name="PAR64 #6 Red" ID="164">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="11">1,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #6 Green" ID="165">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="11">2,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #6 Blue" ID="166">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="11">3,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #6 White" ID="167">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="11">1, 255, 2, 255, 3,255</FixtureVal>
+  </Function>
+ 
  </Engine>
  <VirtualConsole>
   <Frame Caption="">
