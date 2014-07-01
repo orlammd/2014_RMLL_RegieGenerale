@@ -21,6 +21,286 @@
     <Feedback Plugin="None" Line="4294967295"/>
    </Universe>
   </InputOutputMap>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED Bar 240/8 RGB</Model>
+   <Mode>24-channel</Mode>
+   <ID>0</ID>
+   <Name>LED Bar 240/8 RGB #1</Name>
+   <Universe>0</Universe>
+   <Address>0</Address>
+   <Channels>24</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED Bar 240/8 RGB</Model>
+   <Mode>24-channel</Mode>
+   <ID>1</ID>
+   <Name>LED Bar 240/8 RGB #2</Name>
+   <Universe>0</Universe>
+   <Address>24</Address>
+   <Channels>24</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>Generic</Mode>
+   <ID>2</ID>
+   <Name>LED Bar Generic #1</Name>
+   <Universe>0</Universe>
+   <Address>48</Address>
+   <Channels>4</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED Bar 240/8 RGB</Model>
+   <Mode>24-channel</Mode>
+   <ID>3</ID>
+   <Name>LED Bar 240/8 RGB #1</Name>
+   <Universe>0</Universe>
+   <Address>52</Address>
+   <Channels>24</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED Bar 240/8 RGB</Model>
+   <Mode>24-channel</Mode>
+   <ID>4</ID>
+   <Name>LED Bar 240/8 RGB #2</Name>
+   <Universe>0</Universe>
+   <Address>76</Address>
+   <Channels>24</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>Generic</Mode>
+   <ID>5</ID>
+   <Name>LED Bar Generic #2</Name>
+   <Universe>0</Universe>
+   <Address>100</Address>
+   <Channels>4</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>6</ID>
+   <Name>LED PAR64 #1</Name>
+   <Universe>0</Universe>
+   <Address>104</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>7</ID>
+   <Name>LED PAR64 #2</Name>
+   <Universe>0</Universe>
+   <Address>109</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>8</ID>
+   <Name>LED PAR64 #3</Name>
+   <Universe>0</Universe>
+   <Address>114</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>9</ID>
+   <Name>LED PAR64 #4</Name>
+   <Universe>0</Universe>
+   <Address>119</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>10</ID>
+   <Name>LED PAR64 #5</Name>
+   <Universe>0</Universe>
+   <Address>124</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>11</ID>
+   <Name>LED PAR64 #6</Name>
+   <Universe>0</Universe>
+   <Address>129</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>12</ID>
+   <Name>LED PAR36 #1</Name>
+   <Universe>0</Universe>
+   <Address>134</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>13</ID>
+   <Name>LED PAR36 #2</Name>
+   <Universe>0</Universe>
+   <Address>139</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>14</ID>
+   <Name>LED PAR36 #3</Name>
+   <Universe>0</Universe>
+   <Address>144</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>15</ID>
+   <Name>LED PAR36 #4</Name>
+   <Universe>0</Universe>
+   <Address>149</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>16</ID>
+   <Name>LED PAR36 #5</Name>
+   <Universe>0</Universe>
+   <Address>154</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>17</ID>
+   <Name>LED PAR36 #6</Name>
+   <Universe>0</Universe>
+   <Address>159</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>18</ID>
+   <Name>LED PAR36 #7</Name>
+   <Universe>0</Universe>
+   <Address>164</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>19</ID>
+   <Name>LED PAR36 #8</Name>
+   <Universe>0</Universe>
+   <Address>169</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>20</ID>
+   <Name>LED PAR36 #9</Name>
+   <Universe>0</Universe>
+   <Address>174</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>21</ID>
+   <Name>LED PAR36 #10</Name>
+   <Universe>0</Universe>
+   <Address>179</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>22</ID>
+   <Name>LED PAR36 #11</Name>
+   <Universe>0</Universe>
+   <Address>184</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>LED PAR56</Model>
+   <Mode>Mode 1</Mode>
+   <ID>23</ID>
+   <Name>LED PAR36 #12</Name>
+   <Universe>0</Universe>
+   <Address>189</Address>
+   <Channels>5</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>Generic</Mode>
+   <ID>24</ID>
+   <Name>Mini Decoupe #1</Name>
+   <Universe>0</Universe>
+   <Address>194</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>Generic</Mode>
+   <ID>25</ID>
+   <Name>Mini Decoupe #2</Name>
+   <Universe>0</Universe>
+   <Address>195</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>Generic</Mode>
+   <ID>26</ID>
+   <Name>Mini Decoupe #3</Name>
+   <Universe>0</Universe>
+   <Address>196</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>Generic</Mode>
+   <ID>27</ID>
+   <Name>Mini Decoupe #4</Name>
+   <Universe>0</Universe>
+   <Address>197</Address>
+   <Channels>1</Channels>
+  </Fixture>
  </Engine>
  <VirtualConsole>
   <Frame Caption="">
