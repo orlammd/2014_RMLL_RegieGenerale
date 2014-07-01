@@ -745,6 +745,10 @@
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="0">12,255,13,255,14,255</FixtureVal>
   </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #1 Red" ID="113">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="6">1,255</FixtureVal>
+  </Function>
   <Function Path="LedBars" Type="Scene" Name="CJ White Segment 6" ID="114">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="0">15,255,16,255,17,255</FixtureVal>
@@ -868,6 +872,14 @@
   <Function Path="LedBars" Type="Scene" Name="BC White Segment All" ID="144">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="3">1,255,2,255,3,255,4,255,5,255,6,255,7,255,8,255,9,255,10,255,11,255,12,255,13,255,14,255,15,255,16,255,17,255,18,255,19,255,20,255,21,255,22,255,23,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #1 Green" ID="145">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="6">2,255</FixtureVal>
+  </Function>
+  <Function Path="Par64" Type="Scene" Name="PAR64 #1 Blue" ID="146">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="6">3,255</FixtureVal>
   </Function>
  </Engine>
  <VirtualConsole>
