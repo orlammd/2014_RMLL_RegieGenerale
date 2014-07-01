@@ -883,7 +883,7 @@
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #1 White" ID="147">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
-   <FixtureVal ID="6">1, 255, 2, 255, 3,255</FixtureVal>
+   <FixtureVal ID="6">1,255,2,255,3,255</FixtureVal>
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #2 Red" ID="148">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
@@ -899,9 +899,8 @@
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #2 White" ID="151">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
-   <FixtureVal ID="7">1, 255, 2, 255, 3,255</FixtureVal>
+   <FixtureVal ID="7">1,255,2,255,3,255</FixtureVal>
   </Function>
- 
   <Function Path="Par64" Type="Scene" Name="PAR64 #3 Red" ID="152">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="8">1,255</FixtureVal>
@@ -916,9 +915,8 @@
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #3 White" ID="155">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
-   <FixtureVal ID="8">1, 255, 2, 255, 3,255</FixtureVal>
+   <FixtureVal ID="8">1,255,2,255,3,255</FixtureVal>
   </Function>
- 
   <Function Path="Par64" Type="Scene" Name="PAR64 #4 Red" ID="156">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="9">1,255</FixtureVal>
@@ -933,9 +931,8 @@
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #4 White" ID="159">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
-   <FixtureVal ID="9">1, 255, 2, 255, 3,255</FixtureVal>
+   <FixtureVal ID="9">1,255,2,255,3,255</FixtureVal>
   </Function>
- 
   <Function Path="Par64" Type="Scene" Name="PAR64 #5 Red" ID="160">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="10">1,255</FixtureVal>
@@ -950,9 +947,8 @@
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #5 White" ID="163">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
-   <FixtureVal ID="10">1, 255, 2, 255, 3,255</FixtureVal>
+   <FixtureVal ID="10">1,255,2,255,3,255</FixtureVal>
   </Function>
- 
   <Function Path="Par64" Type="Scene" Name="PAR64 #6 Red" ID="164">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
    <FixtureVal ID="11">1,255</FixtureVal>
@@ -967,9 +963,12 @@
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #6 White" ID="167">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
-   <FixtureVal ID="11">1, 255, 2, 255, 3,255</FixtureVal>
+   <FixtureVal ID="11">1,255,2,255,3,255</FixtureVal>
   </Function>
- 
+  <Function Path="Par36" Type="Scene" Name="Par36 #1 Red" ID="168">
+   <Speed Duration="0" FadeOut="0" FadeIn="0"/>
+   <FixtureVal ID="12">1,255</FixtureVal>
+  </Function>
  </Engine>
  <VirtualConsole>
   <Frame Caption="">
