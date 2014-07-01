@@ -879,7 +879,7 @@
   </Function>
   <Function Path="Par64" Type="Scene" Name="PAR64 #1 Blue" ID="146">
    <Speed Duration="0" FadeOut="0" FadeIn="0"/>
-   <FixtureVal ID="6">3,255</FixtureVal>
+   <FixtureVal ID="6">3,0</FixtureVal>
   </Function>
  </Engine>
  <VirtualConsole>
